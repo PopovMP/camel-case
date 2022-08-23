@@ -1,7 +1,7 @@
 {
-  "name": "@popovmp/camle-case",
-  "description": "Converts astring to camle case",
-  "version": "1.0.0",
+  "name": "@popovmp/camel-case",
+  "description": "Converts a string to camel case",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Popov <info@forexsb.com>",
   "license": "MIT",
