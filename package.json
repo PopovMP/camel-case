@@ -1,0 +1,26 @@
+{
+  "name": "@popovmp/camle-case",
+  "description": "Converts astring to camle case",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Popov <info@forexsb.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/popovmp/camle-case",
+  "devDependencies": {
+    "@popovmp/mocha-tiny": "^2.3.0"
+  },
+  "scripts": {
+    "test": "mocha-tiny",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PopovMP/camel-case.git"
+  },
+  "keywords": [
+    "ini"
+  ],
+  "bugs": {
+    "url": "https://github.com/popovmp/camel-case/issues"
+  }
+}
