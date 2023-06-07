@@ -1,17 +1,14 @@
 {
   "name": "@popovmp/camel-case",
   "description": "Converts a string to camel case",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "Popov <info@forexsb.com>",
   "license": "MIT",
   "homepage": "https://github.com/popovmp/camel-case",
-  "devDependencies": {
-    "@popovmp/mocha-tiny": "^2.3.0"
-  },
   "scripts": {
-    "test": "mocha-tiny",
-    "prepublishOnly": "npm test"
+    "test": "node --test",
+    "prepublishOnly": "node --test"
   },
   "repository": {
     "type": "git",
